@@ -1,5 +1,5 @@
 
-# :bank: Boas-vindas ao repositório do projeto My-Wallet! :moneybag:
+# :bank: Boas-vindas ao repositório do projeto Conversor de Moedas! :moneybag:
 <p align="center">
      <a alt="Java" href="https://java.com" target="_blank">
         <img src="https://img.shields.io/badge/Java-v21.0.3-ED8B00.svg" />
@@ -28,7 +28,7 @@ Os usuários podem facilmente realizar as seguintes conversões de moeda:
 Com uma interface simples e intuitiva, os usuários podem converter moedas com facilidade e precisão, atendendo às suas necessidades financeiras com rapidez e confiabilidade.
 
 ### 🛠️ Funcionalidades
-<img src="/home/bete/IdeaProjects/MyWallet/images/Captura de tela de 2024-04-30 18-42-10.png">
+<img src="./images/Captura de tela de 2024-04-30 18-42-10.png">
 
 
 ### 📁 Acesso ao projeto
@@ -37,9 +37,10 @@ Para acessar o projeto, siga estas instruções:
 
 1.  Clone este repositório para o seu ambiente local usando o seguinte comando no terminal:
 ```bash    
-    `git clone https://seu-repositorio.git` 
+    `git clone https://github.com/Elisabete-MO/java-currency-converter.git` 
 ```
 2.  Abra o projeto na sua IDE de preferência.
+<br>
 
 #### 🛠️ Como abrir e executar o projeto?
 
@@ -48,7 +49,7 @@ Para abrir e executar o projeto, siga estes passos:
 1.  Certifique-se de que você tenha as dependências do projeto instaladas, incluindo o Java Development Kit (JDK).
 2.  Navegue até o diretório do projeto em sua IDE.
 3.  Localize e abra o arquivo principal do projeto, geralmente chamado de `Main.java` ou similar.
-4.  Execute o arquivo `WalletApplication.java`.
+4.  Execute o arquivo `CurrencyConverterApplication.java`.
 5.  Siga as instruções no console para interagir com o conversor de moedas.
     
 ### ✔️ Tecnologias Utilizadas
