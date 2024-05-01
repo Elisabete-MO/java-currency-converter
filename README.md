@@ -22,8 +22,8 @@ Os usuários podem facilmente realizar as seguintes conversões de moeda:
 -   Peso Argentino (ARS) para Dólar (USD);
 -   Dólar (USD) para Real Brasileiro (BRL);
 -   Real Brasileiro (BRL) para Dólar (USD);
--   Dólar (USD) para Peso Colombiano (COP);
--   Peso Colombiano (COP) para Dólar (USD).
+-   Dólar (USD) para Bolívar Boliviano (BOB);
+-   Bolívar Boliviano (BOB) para Dólar (USD).
 
 Com uma interface simples e intuitiva, os usuários podem converter moedas com facilidade e precisão, atendendo às suas necessidades financeiras com rapidez e confiabilidade.
 
