@@ -12,6 +12,18 @@
     </a>
 </p>
 
+<table>
+  <tr>
+    <td>
+      <img src="./images/Badge-Conversor.png" width="400px" alt="Badge de 
+Conquista">
+    </td>
+    <td>
+      <img src="./images/Badge-Conversor2.png" width="400px" alt="Badge de 
+Conquista>
+    </td>
+  </tr>
+</table>
 ### :credit_card: Descrição do Projeto
 
 Esta aplicação oferece uma solução eficiente para a conversão de dados monetários, utilizando dados em tempo real fornecidos pela [ExchangeRate-API](https://www.exchangerate-api.com/).
